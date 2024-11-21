@@ -1,2 +1,0 @@
-# Impact-Trainee
-Impact Training
